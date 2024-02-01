@@ -1,6 +1,6 @@
 # Php ile Google Çeviri Uygulaması Yapımı
 
-Bu proje, PHP programlama dili kullanılarak geliştirilmiş basit bir Google Çeviri uygulamasını içermektedir. Bu uygulama, metinleri bir dilden diğerine çevirmek için Google Çeviri API'sini kullanmaktadır. Aynı zamanda kullanıcıya sesli okuma özelliği sunmaktadır
+Bu proje, PHP programlama dili kullanılarak geliştirilmiş basit bir Google Çeviri uygulamasını içermektedir. Bu uygulama, metinleri bir dilden diğerine çevirmek için Google Çeviri API'sini kullanmaktadır. Aynı zamanda kullanıcıya sesli okuma özelliği sunmaktadır.
 
 # Kullanılan Teknolojiler
 
