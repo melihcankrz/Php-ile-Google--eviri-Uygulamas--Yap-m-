@@ -4,9 +4,9 @@ Bu proje, PHP programlama dili kullanılarak geliştirilmiş basit bir Google Ç
 
 # Kullanılan Teknolojiler
 
--HTML/CSS/JavaScript: Kullanıcı arayüzü oluşturmak ve etkileşim sağlamak için kullanılmıştır.
--PHP: Google Çeviri API ile iletişim kurmak ve çeviri işlemlerini gerçekleştirmek için kullanılmıştır.
--jQuery: JavaScript kütüphanesi, sayfa üzerinde dinamik etkileşimler sağlamak için kullanılmıştır.
+HTML/CSS/JavaScript: Kullanıcı arayüzü oluşturmak ve etkileşim sağlamak için kullanılmıştır.
+PHP: Google Çeviri API ile iletişim kurmak ve çeviri işlemlerini gerçekleştirmek için kullanılmıştır.
+jQuery: JavaScript kütüphanesi, sayfa üzerinde dinamik etkileşimler sağlamak için kullanılmıştır.
 
 # Özellikler
 
